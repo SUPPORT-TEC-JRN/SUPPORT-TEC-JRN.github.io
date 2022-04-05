@@ -1,14 +1,26 @@
 --- 
 layout: post
-title: Fifth Post
-author: Dave Mc Dave
-intro: This is the intro for this post. This post has no intro image, just text
+title: SERVICIOS
+author: Nery
+intro: NUESTROS SERVICIOS 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elit eros, porta eget dapibus vitae, tempus et mi. Maecenas sollicitudin ligula vel metus condimentum, ac commodo sem vestibulum. Morbi tempus dui sapien, vel mattis orci faucibus id. Nulla congue elit vel accumsan mattis. Ut vel dolor porttitor, laoreet risus in, tempus velit. Praesent eu nisi enim. Integer sed venenatis risus, eget semper sapien. Nulla at lacinia lectus. Sed rutrum lectus at vestibulum tristique. Cras ex sem, consequat at dapibus scelerisque, iaculis sit amet tellus. Fusce eu orci ut ex consequat semper. Mauris pharetra dictum dui, vestibulum egestas erat.
+> MANTENIMIENTO PREVENTIVO: Conservación de equipos o instalaciones mediante la realización de revisión y limpieza que garanticen su buen funcionamiento y fiabilidad.
 
-Aliquam diam eros, maximus non consectetur sed, faucibus et risus. Morbi quis velit ultrices, ultrices magna ut, pretium mauris. Sed interdum dolor augue, in ultrices tellus rutrum eu. Donec a tellus gravida, imperdiet sapien et, mollis nibh. Aenean at diam eu diam gravida malesuada. In egestas est arcu, porttitor luctus orci dapibus eu. Maecenas ac justo quam. Sed blandit hendrerit massa, vel semper augue sagittis consequat. Aliquam non finibus massa, a semper est. Etiam ornare elit sed vestibulum semper. Nunc nec blandit augue. Etiam molestie massa et justo luctus sagittis. Suspendisse tincidunt maximus tellus non iaculis. Proin ut sodales magna. Integer cursus orci sit amet diam vehicula molestie. Nam luctus arcu a consequat blandit.
+> MANTENIMIENTO CORRETIVO: Corrige los defectos observados en los equipamientos o instalaciones, es la forma más básica de mantenimiento y consiste en localizar averías o defectos para corregirlos o repararlos.
 
-Nunc accumsan, leo eget porta auctor, odio augue consectetur lectus, sit amet laoreet nibh ex vitae orci. Aliquam erat volutpat. Nunc ultricies magna sem, vitae rhoncus augue commodo vitae. Suspendisse commodo nisl dui, eu maximus tortor rhoncus sit amet. Nulla facilisi. Mauris condimentum massa rhoncus, tempus risus sit amet, elementum turpis. Etiam quis urna tempus, tempus ipsum in, egestas arcu. Duis nibh nibh, vulputate sed fringilla pellentesque, hendrerit at lorem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus elementum ultrices ultrices. Quisque ac erat pharetra ipsum imperdiet rhoncus. Donec fermentum ante nec scelerisque tempus. Proin at aliquam orci. Quisque interdum nibh eu justo cursus egestas. Integer sed est turpis.
+> MANTENIMIENTO DISTANCIA: El mantenimiento de equipos que puede realizarse a través de internet, de forma remota y segura, donde nosotros solucionamos los problemas que presenta el servidor, la pc o notebook.
 
-Aenean nec erat a sapien ornare tincidunt. Nam at lorem nunc. Praesent euismod hendrerit diam in pulvinar. Integer vulputate ligula ut commodo vehicula. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed ut turpis in lacus vestibulum rhoncus sed eget arcu. Donec sit amet venenatis est, vitae varius diam. Etiam at dictum ligula. Nullam id turpis sem. Phasellus ut pellentesque risus. Maecenas ultricies dolor a nisi pretium, quis tempor sem pharetra.
+> MANTENIMIENTO PRESENCIAL: Evitarle al cliente gastos a largo plazo, además de aumentar la eficiencia de los procesos operativos. Cuanto más temprano se haga el diagnóstico de un problema, mejor.
+
+> SOPORTE TECNICO: Ayudar a los usuarios para que puedan resolver ciertos problemas.
+
+> APLICACIONES WEB: Usuarios que pueden utilizar accediendo a un servidor web a través de internet o de una intranet mediante un navegador.
+
+> EQUIPO DE COMPUTO: Mantener bien los componenetes de hardware y software
+
+> PROGRAMAS-APLICACIONES: Verificar o componer cualquier tipo de falla que tengan los progrmas o ya sea las aplicaciones
+
+> REDES: Conexion de WiFi,archivos,impesorara,USB, etc…
+
+> REPARACION DE COMPUTADORAS: Reparar cualquier tipo de problema que tenga su PC interior y exterior
