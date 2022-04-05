@@ -3,6 +3,7 @@ layout: post
 title: NOSOTROS SOMOS
 author: Nery
 description: ¿QUIENES  SOMOS?
+---
 intro_image: /img/home.jpg
 intro_image_ratio: is-16by9
 ---
