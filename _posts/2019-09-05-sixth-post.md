@@ -6,7 +6,7 @@ description: ¿QUIENES  SOMOS?
 ---
 intro_image: /img/home.jpg
 intro_image_ratio: is-16by9
----
+
 Desde hace 20 años se ha caracterizado por ser una empresa lider en servicios tecnologicos_
 
 Ampliando su cobertura en America Latina,como en presencia de cuatro paises.
