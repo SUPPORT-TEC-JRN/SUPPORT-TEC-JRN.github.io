@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: CONTACTOS
-image: http://www.universidadvalle.cr/wp-content/uploads/blog-soporte-300x200.png
+image: http://www.universidadvalle.cr/wp-content/uploads/blog-soporte-300x200.png 
 ---
 
 <form action="https://formspree.io/f/mrgjaqja" method="post">
