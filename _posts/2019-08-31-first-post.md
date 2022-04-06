@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: CONTACTOS
-image: /img/home.jpg
+image: <img src="http://www.universidadvalle.cr/wp-content/uploads/blog-soporte-300x200.png" alt="Trulli" width="500" height="333">
 ---
 
 <form action="https://formspree.io/f/mrgjaqja" method="post">
