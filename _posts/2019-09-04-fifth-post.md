@@ -3,6 +3,7 @@ layout: post
 title: SERVICIOS
 author: Nery
 intro: NUESTROS SERVICIOS 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMfWCNOrrY_XasDTNxvoHzu88GGzP-xDPgDw&usqp=CAU
 ---
 
 > MANTENIMIENTO PREVENTIVO: Conservación de equipos o instalaciones mediante la realización de revisión y limpieza que garanticen su buen funcionamiento y fiabilidad.
