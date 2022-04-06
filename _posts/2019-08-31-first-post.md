@@ -5,7 +5,7 @@ image: http://www.universidadvalle.cr/wp-content/uploads/blog-soporte-300x200.pn
 ---
 
 <form action="https://formspree.io/f/mrgjaqja" method="post">
-Nombre: <input type="text" name="name"><br>
+Nombre: <input type="text" name="name"><br> 
 Apellidos: <input type="text" name="apellidos"><br>
 E-mail: <input type="text" name="email"><br>
 No. Telefonico: <input type="text" name="no. telefonico"><br>
