@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: FAQ (PREGUNTAS FRECUENTES)
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdfiOjRAITjCOPiM0sohQNfVm7WK0-tXdEig&usqp=CAU
 ---
 
 1°¿cada cuando se recomienda darle mantenimiento a una computadora?
