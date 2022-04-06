@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: CONTACTOS
+author: Nery
 image: http://www.universidadvalle.cr/wp-content/uploads/blog-soporte-300x200.png 
 ---
 
