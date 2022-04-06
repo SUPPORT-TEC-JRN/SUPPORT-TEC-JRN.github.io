@@ -3,7 +3,7 @@ layout: post
 title: NOSOTROS SOMOS
 author: Nery
 description: ¿QUIENES  SOMOS?
-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMfWCNOrrY_XasDTNxvoHzu88GGzP-xDPgDw&usqp=CAU
+image: https://cecytebcs.edu.mx/wp-content/uploads/2022/02/soporte.jpg
 ---
 
 Desde hace 20 años se ha caracterizado por ser una empresa lider en servicios tecnologicos_
