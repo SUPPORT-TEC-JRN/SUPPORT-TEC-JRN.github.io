@@ -2,7 +2,7 @@
 layout: post
 title: NOSOTROS SOMOS
 author: Nery
-description: ¿QUIENES  SOMOS?
+description: ¿QUIENES  SOMOS?  
 image: https://cecytebcs.edu.mx/wp-content/uploads/2022/02/soporte.jpg
 ---
 
