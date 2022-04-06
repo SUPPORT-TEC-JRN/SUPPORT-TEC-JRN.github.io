@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: FAQ (PREGUNTAS FRECUENTES)
+author: Nery
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdfiOjRAITjCOPiM0sohQNfVm7WK0-tXdEig&usqp=CAU
 ---
 
