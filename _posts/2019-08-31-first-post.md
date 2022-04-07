@@ -2,7 +2,7 @@
 layout: post
 title: CONTACTOS
 author: Nery
-image: http://www.universidadvalle.cr/wp-content/uploads/blog-soporte-300x200.png 
+image: https://www.aragon.es/documents/20127/5510481/Correo+electr%C3%B3nico.jpg/407e6926-cbb4-3e46-58f7-1df132c1c7f0?t=1563270013892
 ---
 
 <form action="https://formspree.io/f/mrgjaqja" method="post">
