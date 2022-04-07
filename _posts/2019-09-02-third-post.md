@@ -2,7 +2,7 @@
 layout: post
 title: FAQ (PREGUNTAS FRECUENTES)
 author: Nery
-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdfiOjRAITjCOPiM0sohQNfVm7WK0-tXdEig&usqp=CAU
+image: https://dhs.lacounty.gov/whole-person-care/wp-content/uploads/sites/33/2020/09/Block-3-3rd-Square-FAQ-1920x1043.jpg
 ---
 
 1°¿cada cuando se recomienda darle mantenimiento a una computadora?
