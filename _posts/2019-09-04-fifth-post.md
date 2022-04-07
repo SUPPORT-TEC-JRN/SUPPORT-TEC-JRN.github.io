@@ -3,7 +3,7 @@ layout: post
 title: SERVICIOS
 author: Nery
 intro: NUESTROS SERVICIOS 
-image: https://dconfianza.pe/blog/wp-content/uploads/2020/09/Software-de-Mantenimiento-CMMS-1024x536.jpg
+image: http://www.netcafe-solutions.net/wp-content/uploads/2017/11/mantenimiento02.jpg
 ---
 
 > MANTENIMIENTO PREVENTIVO: Conservación de equipos o instalaciones mediante la realización de revisión y limpieza que garanticen su buen funcionamiento y fiabilidad.
