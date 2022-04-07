@@ -14,7 +14,7 @@ image: https://dhs.lacounty.gov/whole-person-care/wp-content/uploads/sites/33/20
 > Limpieza interna del PC
 
 > Revisar los conectores internos del PC
-
+ 
 > Limpieza de monitor del PC
 
 > Los CD-ROM, DVD, CD-RW
