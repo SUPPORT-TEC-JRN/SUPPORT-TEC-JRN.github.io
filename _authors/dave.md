@@ -1,11 +1,10 @@
 ---
-title: Dave - web dev
-name: Dave Mc Dave
+title: Nery.JR - web dev
+name: Nery.JR 
 position: Web Developer
-description: Dave is a web developer
+description: Empresa que te ayudara en tu vida
 avatar: /img/dave.png
 facebook: https://www.facebook.com/
 twitter: https://www.twitter.com/
 github: https://www.github.com/
 ---
-Dave is a web developer. This is a page all about Dave.
