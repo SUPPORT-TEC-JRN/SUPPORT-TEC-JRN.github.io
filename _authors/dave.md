@@ -1,7 +1,7 @@
 ---
 title: Nery.JR - web dev
 name: Nery.JR 
-position: Web Developer
+position: Empresa que te ayudara en tu vida
 description: Empresa que te ayudara en tu vida
 avatar: /img/dave.png
 facebook: https://www.facebook.com/
